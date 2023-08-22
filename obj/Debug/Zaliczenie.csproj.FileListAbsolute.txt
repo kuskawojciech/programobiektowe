@@ -1,0 +1,8 @@
+C:\Users\Wojtek\source\repos\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.exe.config
+C:\Users\Wojtek\source\repos\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.exe
+C:\Users\Wojtek\source\repos\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.pdb
+C:\Users\Wojtek\source\repos\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csproj.AssemblyReference.cache
+C:\Users\Wojtek\source\repos\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wojtek\source\repos\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\source\repos\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.exe
+C:\Users\Wojtek\source\repos\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.pdb
